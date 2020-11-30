@@ -189,8 +189,8 @@ body{
   left: 0;
   right: 0;
   z-index: -1;
-  filter: blur(13px);
-  -webkit-filter: blur(15px);
+  filter: blur(30px);
+  -webkit-filter: blur(30px);
 }
 .header{
   width: 100%;
