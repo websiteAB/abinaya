@@ -177,7 +177,6 @@ title{
 body{
   text-align: center;
   @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-  font-family: 'Pacifico', cursive; !important
 }
 .img{
   background-image: url(download1.jpg);
@@ -185,13 +184,13 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 4400px;
+  height: 4100px;
   position: absolute;
   left: 0;
   right: 0;
   z-index: -1;
-  filter: blur(15px);
-  -webkit-filter: blur(15px);
+  filter: blur(13px);
+  -webkit-filter: blur(18px);
 }
 .header{
   width: 100%;
